@@ -1,0 +1,5 @@
+{
+  "name": "Anjeet Book Dealer",
+  "description": "A modern, full-stack capable e-commerce platform for a bookstore featuring time-based discounts, Sunday spin-wheel gamification, admin dashboard, and WhatsApp integration.",
+  "requestFramePermissions": []
+}
